@@ -22,3 +22,4 @@ This site should link to http://www.tos-dr.info whenever it can so that people w
 
 * a ruby framework
 * gollum git wiki
+* or it could just fork this: https://github.com/assimovt/gollum-rails
